@@ -1,2 +1,2 @@
 # RDice
-サイコロです
+This project is my first plugin.
