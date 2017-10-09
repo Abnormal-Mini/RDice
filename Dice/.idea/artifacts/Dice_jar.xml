@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dice:jar">
+    <output-path>C:/ビルド/plugins</output-path>
+    <root id="archive" name="Dice.jar">
+      <element id="module-output" name="Dice" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

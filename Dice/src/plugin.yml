@@ -1,0 +1,10 @@
+name: Dice_Plugin
+version: 1.0.0
+author: Hims
+description: This is Dice Plugin
+main: me.ryotackey.dice.DicePlugin
+commands:
+  rdice:
+    description: Command no setsumeibun
+    usage: /<command>
+    default: true
